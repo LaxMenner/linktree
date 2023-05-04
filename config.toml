@@ -2,6 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Lax Menner'
 theme = 'PaperMod'
+
 [params.profileMode]
 enabled = true
 title = "<Title>"
