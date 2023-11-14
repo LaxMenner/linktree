@@ -1,3 +1,5 @@
-# linktree
-A small linktree application for personal use 
-Its hostest with GitHub Page    
+### linktree
+
+A simple linktree clone. That uses Hugo and Github Pages.
+
+```    
