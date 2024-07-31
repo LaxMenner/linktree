@@ -23,7 +23,7 @@ imageHeight = 250
 
 [[params.socialIcons]]
 name = "mastodon"
-url = "https://chaos.social/@LaxMenner"
+url = "https://mastodon.social/@LaxMenner"
 
 [[params.socialIcons]]
 name = "github"
