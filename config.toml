@@ -17,13 +17,9 @@ imageHeight = 250
   url = "/archive"
 
 [[params.profileMode.buttons]]
-  name = "Github"
-  url = "https://github.com/LaxMenner"
+  name = "CV"
+  url = "/cv.pdf"
 
-
-[[params.socialIcons]]
-name = "mastodon"
-url = "https://mastodon.social/@LaxMenner"
 
 [[params.socialIcons]]
 name = "github"
