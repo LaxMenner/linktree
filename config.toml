@@ -18,7 +18,7 @@ imageHeight = 250
 
 [[params.profileMode.buttons]]
   name = "CV"
-  url = "/cv.pdf"
+  url = "cv.pdf"
 
 
 [[params.socialIcons]]
