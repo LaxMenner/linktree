@@ -17,7 +17,7 @@ imageHeight = 250
   url = "/archive"
 
 [[params.profileMode.buttons]]
-  name = "Mauslpupsl"
+  name = "CV"
   url = "cv.pdf"
 
 
